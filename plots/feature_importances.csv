@@ -1,0 +1,17 @@
+,importance
+origin_daily_flights,0.3592176351415695
+ground_time_surplus,0.17086298524544197
+n_transfer,0.09185296681729822
+load_factor,0.08297867921521386
+pax_per_seat,0.08124268433315962
+bags_per_pax,0.07264946803754985
+lap_child_share,0.04559428985318834
+dest_daily_flights,0.03821975603365315
+transfer_share,0.02039854902551315
+short_turn_flag,0.015652122570679612
+extreme_short_turn,0.01118709222409621
+is_peak_hour,0.010143771502636496
+basic_economy_share,0.0
+n_checked,0.0
+n_ssr,0.0
+ssr_per_pax,0.0
